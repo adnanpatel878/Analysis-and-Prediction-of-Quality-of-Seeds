@@ -25,4 +25,11 @@ Keywords: prediction, classification, convolutional neural network
 
 ## Process Flow Diagram
 
+![all_steps](https://github.com/adnanpatel878/Analysis-and-Prediction-of-Quality-of-Seeds/assets/105789120/0be4cd4b-b52d-41dc-a8c6-224645df127e)
+
+
+##Dataset Split
+
+![dataset](https://github.com/adnanpatel878/Analysis-and-Prediction-of-Quality-of-Seeds/assets/105789120/a5ec560b-d338-4b69-a59e-2265c5494679)
+
 
