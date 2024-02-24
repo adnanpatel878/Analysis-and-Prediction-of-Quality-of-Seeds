@@ -22,3 +22,7 @@ quality with higher accuracy by analyzing the training accuracy of CNN model and
 prediction accuracy of the algorithm.
 
 Keywords: prediction, classification, convolutional neural network
+
+## Process Flow Diagram
+
+
